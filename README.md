@@ -19,22 +19,23 @@ Version Control: Git | GitHub
 
 🎓 Featured Projects (LSE Data Analytics Career Accelerator)
 
- 🐢 **Turtle Games – Predicting Customer Loyalty & Segmentation**
- 
- Tools: Python | R | Tableau | Machine Learning  
-> Built regression, decision-tree, and clustering models to predict loyalty points and segment customers by income and spending.  
-> Used sentiment analysis on customer reviews to uncover satisfaction drivers and improve marketing strategies.  
-> Key insight: Spending score and remuneration are the strongest predictors of loyalty; top 20 % of high-income, high-spending customers generate the most value.
+🐢 **Turtle Games – Predicting Customer Loyalty & Segmentation**
+*Tools:* Python | R | Tableau | Machine Learning  
+> Predicted customer loyalty points using regression and decision-tree models.  
+> Applied **K-Means clustering** to segment customers by income and spending behaviour.  
+> Conducted **sentiment analysis** on customer reviews to identify satisfaction drivers.
 
-🩺 **NHS Capacity & Resource Utilisation Analysis**  
-Tools: Python | Seaborn | Tableau  
-> Analysed NHS appointment datasets to identify demand–supply imbalances, missed appointments, and resource bottlenecks.  
-> Provided recommendations for optimising clinic capacity and patient engagement.  
+🩺 **NHS Capacity & Utilisation Analysis**  
+*Tools:* Python | Seaborn | NLP | Tableau  
+> Analysed **1.2M+ NHS appointment records** to assess capacity and workforce utilisation.  
+> Identified weekday demand surges, regional disparities, and £900M cost from DNAs (missed appointments).  
+> Integrated **Twitter sentiment analysis** using NLTK-VADER to gauge public perception of NHS services.
 
-🏪 **2Market – Customer Behaviour & Sales Analytics**  
-Tools: Excel | SQL | Tableau  
-> Examined consumer purchasing patterns and marketing effectiveness.  
-> Developed interactive dashboards for sales insights and campaign performance tracking. 
+🏪 **2Market – Customer Behaviour & Marketing Analytics**  
+*Tools:* SQL | Excel | Tableau  
+> Cleaned and structured marketing data; built relational models using PostgreSQL.  
+> Analysed **sales, demographics, and ad campaign performance** using SQL joins and aggregation.  
+> Designed **interactive Tableau dashboards** for executives highlighting sales trends, cusotmer demographics and marketing ROI.
 
 💡 **Areas of Interes** 
 - Predictive Analytics & Forecasting  
@@ -50,3 +51,5 @@ Tools: Excel | SQL | Tableau
 
  🤝 **Let’s Connect**  
 https://www.linkedin.com/in/karan-kumar-0b865647/
+
+
